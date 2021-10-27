@@ -1,0 +1,25 @@
+<annotation>
+       <filename>20210924gangseo_hwagok2 (28).jpg.json</filename>
+      <path>C:\Users\yk291\OneDrive\&#48148;&#53461; &#54868;&#47732;\data engine/labels/20210924gangseo_hwagok2 (28).jpg.json</path>
+      <source>
+             <database>Unknown</database>
+      </source>
+      <size>
+             <width>640</width>
+            <height>640</height>
+            <depth>3</depth>
+      </size>
+      <segmented>0</segmented>
+      <object>
+             <name>Vehicle</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                   <xmin>0</xmin>
+                  <ymin>168</ymin>
+                  <xmax>66</xmax>
+                  <ymax>210</ymax>
+            </bndbox>
+      </object>
+</annotation>
